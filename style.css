@@ -1,0 +1,117 @@
+body{
+    text-align: center;
+    background: white;
+}
+h1{
+    margin: 2% 0;
+}
+.background{
+    color: white;
+}
+.container-fluid{
+    padding: 5% 10%;
+}
+
+img{
+    width: 80%;
+    border-radius: 10px;
+}
+.left-align{
+    text-align: left;
+}
+.navbar{
+    background: #190E46;
+}
+
+.nav-bar-button  {
+    background: #ED3674;
+    border-radius: 30px;
+
+
+}
+.nav-link{
+    color: white;
+    text-transform: capitalize;
+    line-height: 3;
+    
+}
+.navbar-nav{
+    padding: 0 10%;
+}
+.navbar-text{
+    color: white;
+    text-transform: capitalize;
+    font-size: medium;
+}
+.navbar-brand{
+    color: white;
+    padding: 0 10%;
+}
+#first-section .container-fluid{
+    padding: 0 10%;
+}
+
+/* *******************navbar and beginning ccss codes */
+
+
+/* ********************title-section */
+.first-section-background{
+    background-image: url("fortrez-first-section-bg.png");
+    background-size: cover;
+}
+
+
+/* *******second-section***** */
+.second-section-background{
+    background-image: url("Untitled-1Artboard-2.png");
+    background-size: cover;
+    color: white;
+}
+
+
+
+
+/* **************second-section************** */
+.second-section-text{
+    font-size: 2vw;
+}
+.second-section-button{
+    background: red;
+}
+
+/* *******third-section */
+.section-three-button{
+    background: #190E46;
+    color: white;
+    margin: 2% 0;
+}
+
+/* ***fouth-sectiom */
+label{
+    text-align: left;
+    
+}
+.message-container{
+    height: 20vh;
+}
+.contact-button{
+    background: #190E46;
+    color: white;
+    margin: 2% 0;
+}
+.form-control{
+    background: none;
+    border: solid 1px #190E46 ;
+}
+
+
+/* ************footer-section */
+
+#footer{
+    background: #190E46;
+}
+.footer-text{
+    color: white;
+    text-decoration: none;
+    margin: 0 1%;
+}
